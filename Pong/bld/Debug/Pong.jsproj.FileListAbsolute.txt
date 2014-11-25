@@ -1,0 +1,43 @@
+C:\Repo Private\Pong\Pong\bin\Debug\resources.pri
+C:\Repo Private\Pong\Pong\bin\Debug\AppxManifest.xml
+C:\Repo Private\Pong\Pong\bin\Debug\Pong.build.appxrecipe
+C:\Repo Private\Pong\Pong\bld\Debug\priconfig.xml.intermediate
+C:\Repo Private\Pong\Pong\bld\Debug\layout.resfiles.intermediate
+C:\Repo Private\Pong\Pong\bld\Debug\resources.resfiles.intermediate
+C:\Repo Private\Pong\Pong\bld\Debug\pri.resfiles.intermediate
+C:\Repo Private\Pong\Pong\bld\Debug\priconfig.xml
+C:\Repo Private\Pong\Pong\bld\Debug\layout.resfiles
+C:\Repo Private\Pong\Pong\bld\Debug\resources.resfiles
+C:\Repo Private\Pong\Pong\bld\Debug\pri.resfiles
+C:\Repo Private\Pong\Pong\bld\Debug\LanguageQualifiers.txt
+C:\Repo Private\Pong\Pong\bld\Debug\ProjectArchitectures.txt
+C:\source\Pong\Pong\bin\Debug\resources.pri
+C:\source\Pong\Pong\bin\Debug\AppxManifest.xml
+C:\source\Pong\Pong\bin\Debug\Pong.build.appxrecipe
+C:\source\Pong\Pong\bld\Debug\priconfig.xml.intermediate
+C:\source\Pong\Pong\bld\Debug\layout.resfiles.intermediate
+C:\source\Pong\Pong\bld\Debug\resources.resfiles.intermediate
+C:\source\Pong\Pong\bld\Debug\pri.resfiles.intermediate
+C:\source\Pong\Pong\bld\Debug\priconfig.xml
+C:\source\Pong\Pong\bld\Debug\layout.resfiles
+C:\source\Pong\Pong\bld\Debug\resources.resfiles
+C:\source\Pong\Pong\bld\Debug\pri.resfiles
+C:\source\Pong\Pong\bld\Debug\ProjectArchitectures.txt
+C:\source\Pong\Pong\bld\Debug\qualifiers.txt
+C:\source\Pong\Pong\bld\Debug\qualifiers.txt.intermediate
+C:\source\Pong\Pong\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Repo Private\windows-store-pong\Pong\bin\Debug\resources.pri
+C:\Repo Private\windows-store-pong\Pong\bin\Debug\AppxManifest.xml
+C:\Repo Private\windows-store-pong\Pong\bin\Debug\Pong.build.appxrecipe
+C:\Repo Private\windows-store-pong\Pong\bld\Debug\priconfig.xml
+C:\Repo Private\windows-store-pong\Pong\bld\Debug\priconfig.xml.intermediate
+C:\Repo Private\windows-store-pong\Pong\bld\Debug\layout.resfiles
+C:\Repo Private\windows-store-pong\Pong\bld\Debug\layout.resfiles.intermediate
+C:\Repo Private\windows-store-pong\Pong\bld\Debug\resources.resfiles
+C:\Repo Private\windows-store-pong\Pong\bld\Debug\resources.resfiles.intermediate
+C:\Repo Private\windows-store-pong\Pong\bld\Debug\pri.resfiles
+C:\Repo Private\windows-store-pong\Pong\bld\Debug\pri.resfiles.intermediate
+C:\Repo Private\windows-store-pong\Pong\bld\Debug\qualifiers.txt
+C:\Repo Private\windows-store-pong\Pong\bld\Debug\qualifiers.txt.intermediate
+C:\Repo Private\windows-store-pong\Pong\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Repo Private\windows-store-pong\Pong\bld\Debug\ProjectArchitectures.txt

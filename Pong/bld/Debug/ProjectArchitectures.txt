@@ -1,0 +1,1 @@
+C:\Repo Private\windows-store-pong\Pong\Pong.jsproj;neutral
